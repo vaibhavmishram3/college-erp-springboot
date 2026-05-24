@@ -1,6 +1,11 @@
-Here is your clean **README.md file (ready to paste into GitHub)**:
 
-```markdown
+<img width="1420" height="1194" alt="image" src="https://github.com/user-attachments/assets/009241fd-5b96-4d5c-a037-22832dfe269e" />
+
+
+<img width="1420" height="1360" alt="image" src="https://github.com/user-attachments/assets/23a4bf74-aad1-4389-b5fb-c7ddea3a005d" />
+
+
+
 # 📘 College ERP System (Spring Boot + MySQL)
 
 A full-stack **College Management System (ERP)** built using Java Spring Boot and MySQL.  
@@ -33,9 +38,7 @@ It manages students, teachers, fees, attendance, results, and library in a centr
 ---
 
 ## 📂 Project Structure
-
 ```
-
 college-erp/
 │
 ├── controller/
@@ -44,10 +47,7 @@ college-erp/
 ├── entity/
 ├── config/
 └── CollegeErpApplication.java
-
-````
-
----
+```
 
 ## ⚙️ Setup Instructions
 
@@ -83,8 +83,6 @@ server.port=8080
 mvn spring-boot:run
 ```
 
----
-
 ## 🌐 API Endpoints (Student Module)
 
 | Method | Endpoint           | Description      |
@@ -109,22 +107,22 @@ mvn spring-boot:run
 ---
 
 ## 🔮 Future Improvements
-
+```
 * JWT Authentication (Login System)
 * Role-based Access (Admin / Student / Teacher)
 * React Frontend Dashboard
 * Cloud Deployment (Render / AWS / Railway)
 * PDF Report Generation
 * Email Notifications
-
+```
 ---
 
 ## 👨‍💻 Author
-
+```
 * Name: Vaibhav Mishra
 * Project: College ERP System
 * Stack: Java + Spring Boot + MySQL
-
+```
 ---
 
 ## ⭐ Support
@@ -135,12 +133,3 @@ If you like this project:
 * 🍴 Fork it
 * 🚀 Improve it
 
-```
-
-If you want next step, I can also:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- Or :contentReference[oaicite:2]{index=2}
-
-Just tell 👍
-```
